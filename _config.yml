@@ -4,3 +4,13 @@ plugins:
 
 title: Atraeos Collection
 description: Small display website for a Pokemon TCG Collection
+
+
+# data.yml
+pokemon_cards:
+  - name: "Pikachu V - Lost Origin"
+    image_url: "https://commondatastorage.googleapis.com/images.pricecharting.com/346c3f0c5509dc4875050e26e1cb84f382ac9411a21312e5f8b04ea8d8e91b62/1600.jpg"
+  - name: "Charizard ex - Paldean Fates"
+    image_url: "https://tcgplayer-cdn.tcgplayer.com/product/535090_in_1000x1000.jpg"
+  - name: "Gardevoir ex - Shiny Treasure"
+    image_url: "https://commondatastorage.googleapis.com/images.pricecharting.com/3e2gxwfxy4yy6ah5/1600.jpg"
